@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/miniproject/static/css/main.6845014d.chunk.css",
-    "main.js": "/miniproject/static/js/main.7144274c.chunk.js",
-    "main.js.map": "/miniproject/static/js/main.7144274c.chunk.js.map",
-    "runtime-main.js": "/miniproject/static/js/runtime-main.fc4cb71f.js",
-    "runtime-main.js.map": "/miniproject/static/js/runtime-main.fc4cb71f.js.map",
-    "static/js/2.a5c1686f.chunk.js": "/miniproject/static/js/2.a5c1686f.chunk.js",
-    "static/js/2.a5c1686f.chunk.js.map": "/miniproject/static/js/2.a5c1686f.chunk.js.map",
-    "index.html": "/miniproject/index.html",
-    "static/css/main.6845014d.chunk.css.map": "/miniproject/static/css/main.6845014d.chunk.css.map",
-    "static/js/2.a5c1686f.chunk.js.LICENSE.txt": "/miniproject/static/js/2.a5c1686f.chunk.js.LICENSE.txt"
+    "main.css": "/ReactMiniProject/static/css/main.6845014d.chunk.css",
+    "main.js": "/ReactMiniProject/static/js/main.7144274c.chunk.js",
+    "main.js.map": "/ReactMiniProject/static/js/main.7144274c.chunk.js.map",
+    "runtime-main.js": "/ReactMiniProject/static/js/runtime-main.0af9035f.js",
+    "runtime-main.js.map": "/ReactMiniProject/static/js/runtime-main.0af9035f.js.map",
+    "static/js/2.a5c1686f.chunk.js": "/ReactMiniProject/static/js/2.a5c1686f.chunk.js",
+    "static/js/2.a5c1686f.chunk.js.map": "/ReactMiniProject/static/js/2.a5c1686f.chunk.js.map",
+    "index.html": "/ReactMiniProject/index.html",
+    "static/css/main.6845014d.chunk.css.map": "/ReactMiniProject/static/css/main.6845014d.chunk.css.map",
+    "static/js/2.a5c1686f.chunk.js.LICENSE.txt": "/ReactMiniProject/static/js/2.a5c1686f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.fc4cb71f.js",
+    "static/js/runtime-main.0af9035f.js",
     "static/js/2.a5c1686f.chunk.js",
     "static/css/main.6845014d.chunk.css",
     "static/js/main.7144274c.chunk.js"
